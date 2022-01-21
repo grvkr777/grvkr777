@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @grvkr777 (Gaurav)
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning about Machine Learning related algorithms(while making projects) and i,m well versed with basic data structure and algorithms used in competitive programming.
-- 💞️ I’m looking to collaborate on Machine learning related projects, feel free to contact me.
+- 🌱 I’m currently learning about Machine Learning related algorithms(while making projects) and i'm well versed with basic data structure and algorithms used in competitive programming.
+- 💞️ I’m looking to collaborate in Machine learning related projects, feel free to contact me.
 
 
 <!---
